@@ -1,0 +1,14 @@
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Rubik&family=Tilt+Warp&display=swap');
+h1{font-family: Tilt Warp, Rubik, Noto Sans; color: darkolivegreen; font-size: 2em; text-align: center;}
+
+h2{font-family: Tilt Warp, Rubik, Noto Sans;color: darkgreen; font-size: 1.5em; text-align: left;}
+
+head p{color: darkcyan;}
+
+nav{color: blue; text-decoration: none;}
+
+nav a:visited{color: purple;}
+
+nav a:hover{color: yellow;}
+
+nav a:active{color: red;}
