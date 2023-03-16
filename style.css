@@ -5,10 +5,20 @@ h2{font-family: Tilt Warp, Rubik, Noto Sans;color: darkgreen; font-size: 1.5em; 
 
 head p{color: darkcyan;}
 
-nav{color: blue; text-decoration: none;}
+nav a{color: blue; text-decoration: none; font-size: 1.2em;}
 
 nav a:visited{color: purple;}
 
 nav a:hover{color: yellow;}
 
 nav a:active{color: red;}
+
+ul a{color: orange; font-size: 1.2em;}
+
+li{font-size: 1.5em;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
